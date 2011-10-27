@@ -1,0 +1,17 @@
+Problemas AIPI con Direct X
+
+1- Primero instalar el Visual C++ v.6
+2- Verificar la versión de Direct X que tiene su sistema operativo
+	2.1- Ir a Programas
+	2.2- Ir a Accesorios
+	2.3- Ir a Herramientas del Sistema
+	2.4- Ir a Información del Sistema al dar click aparece el cuadro de dialogo correspondiente.
+	2.5- En el menu superior del cuadro seleccionar Herramientas
+	2.6- Luego dar click en el submenu Windows
+	2.7- Luego aparecen otros submenu, dar click en Heraaminetas de diagnósticos de Direct X
+	Allí se puede observar entre otros datos la versión de Direct x actual.
+3- Si la versión de Direct X es menor que la nueve (Direct X 9 ), entonces desintalar e instalar una versión
+   la versión 9 o mayor ( 9c funciona bien, las demás hay que testiar).
+4- Luego instalar el Direct X SDK v9. para C++.
+5- Todo debe hacerse en este orden de lo contrario hay que desinstalar y volver a instalar en este oreden. 
+	 	 	
